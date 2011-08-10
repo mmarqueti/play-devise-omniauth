@@ -21,5 +21,7 @@ Great buttons for autentications
 	
 Next steps
 
+	Use tokens to request information from twitter/facebook using json
+
 	http://philsturgeon.co.uk/news/2010/11/using-omniauth-to-make-twitteroauth-api-requests
 	https://github.com/nov/fb_graph
