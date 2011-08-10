@@ -1,5 +1,11 @@
+**/*/log/*
+**/*/tmp/*
+*~
+coverage/*
+*.sqlite3
 .bundle
-db/*.sqlite3
-log/*.log
-tmp/
-.DS_Store
+rdoc/*
+pkg
+log
+test/tmp/*
+Gemfile.lock
