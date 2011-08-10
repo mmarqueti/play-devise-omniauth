@@ -8,3 +8,8 @@ gem 'omniauth'
 
 gem "mocha", :group => :test
 
+# for twitter?
+gem "oauth"
+# for facebook?
+gem "oauth2"
+gem "json"
